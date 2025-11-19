@@ -31,7 +31,7 @@ This is a fully integrated 3-statement model where the Income Statement, Balance
 
 The model is fully integrated and balanced across all forecast periods, as verified by the balance check shown below. This confirms that the fundamental accounting equation (Assets = Liabilities + Equity) holds true for the entire forecast horizon.
 
-![Screenshot of the model's balance sheet, showing the balance check is zero for all periods.](images/afripure-balance-check.png)
+![Screenshot of the model's balance sheet, showing the balance check is zero for all periods.](afripure-balance-check.png)
 
 **Key Drivers & Assumptions:**
 1.  **Income Statement:** Projections are driven by a top-down approach, starting with a revenue growth assumption of 9.5%. Margins for COGS and Operating Expenses are based on historical performance and strategic goals.
